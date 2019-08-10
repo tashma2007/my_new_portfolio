@@ -4,6 +4,14 @@ import Home from './components/Home';
 import './App.css';
 
 class App extends React.Component {
+
+  constructor(props) {
+super(props);
+this.state = {
+
+  
+}
+  }
   render() {
     return (
       <div className="App">
